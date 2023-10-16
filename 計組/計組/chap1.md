@@ -87,12 +87,22 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 -  隨需應變自助服務(On-Demand Self-Service) 
 	- 消費者可據需求自己來
 -  網路使用無所不在(Broad Network Access) 
-	- 
+	- 不受限制的通過網路使用服務
 -  資源彙整(Resource Pooling)
-	- 
+	- 務供應者透過多重租賃模式服務消費者，可依據消費者要求 指派實體及虛擬資源
+	- 消費者通常無法確知資源所在地點。
 - 高度彈性(Rapid Elasticity)
-	- 
+	- 因應消費者要求隨時且快速地調整資源規模
 - 計算服務(Measured Service)
-	- 
+	- 自動控制、最佳化與量測各類服務資源
+#### 八大特色
+• 大規模的可伸縮性(Massive Scale) 
+• 可修復能力(Resilience) 
+• 同質性(Homogeneity) 
+• 廣泛的地理分布 
+• 虛擬化(Virtualization) 
+• 服務導向特性(Service Oriented) 
+• 低費用(Low Cost) 
+• 先進的安全措施
 ## Seven great ideas in computer organization 
 ## How to evaluate the performance of a computer performance
