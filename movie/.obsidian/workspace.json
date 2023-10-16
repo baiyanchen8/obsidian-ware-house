@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "71b555cbadf9fde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "223703daa38bc6d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0adeb7778ad818ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "model/movie name.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3475740c0d940acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "058cba804798eda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75879e7daaa68cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd73dfadf248b07f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b31942aca9b68c76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5eb7e47bdd6ca20",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e5ab42c7fd679f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec92be56faa106b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "model/movie name.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0ff62323ff67ced",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "model/movie name.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b9b6fcddf0eef83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59f0378dfbb27c12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "model/movie name.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "0adeb7778ad818ba",
+  "lastOpenFiles": [
+    "producer/皮克斯.md",
+    "model/movie name.md",
+    "電影專有名詞/蒙太奇.md",
+    "電影/元素方城市(Elemental).md",
+    "producer",
+    "電影",
+    "電影專有名詞/未命名.canvas",
+    "電影專有名詞",
+    "未命名.canvas",
+    "[元素方城市.md",
+    "圖片連結.md",
+    "未命名 1.md",
+    "image",
+    "image/Pasted image 20231015183825.png",
+    "model"
+  ]
+}

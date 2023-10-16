@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"142fdf4694cdce36","type":"text","text":"code","x":220,"y":-100,"width":250,"height":60},
+		{"id":"5a6cc4113faaef47","type":"text","text":"exe file","x":220,"y":220,"width":250,"height":60},
+		{"id":"da50d487d39139be","type":"text","text":"assembler","x":220,"y":-20,"width":250,"height":60},
+		{"id":"108fffb058b1f7f8","type":"text","text":"object code","x":220,"y":60,"width":250,"height":60},
+		{"id":"0c30c8bc04af9331","type":"text","text":"linker","x":220,"y":140,"width":250,"height":60},
+		{"id":"4da787663b4a2273","type":"text","text":"loader","x":220,"y":300,"width":250,"height":60},
+		{"id":"2f2d8759b0d2fa9b","type":"text","text":"memory","x":220,"y":380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"21fd9a95e3839923","fromNode":"142fdf4694cdce36","fromSide":"bottom","toNode":"da50d487d39139be","toSide":"top"},
+		{"id":"d26780a1e2897d3a","fromNode":"da50d487d39139be","fromSide":"bottom","toNode":"108fffb058b1f7f8","toSide":"top"},
+		{"id":"44acf72b0501acf2","fromNode":"0c30c8bc04af9331","fromSide":"bottom","toNode":"5a6cc4113faaef47","toSide":"top"},
+		{"id":"a4233cfd61d7fcd7","fromNode":"108fffb058b1f7f8","fromSide":"bottom","toNode":"0c30c8bc04af9331","toSide":"top"},
+		{"id":"bc9b0bd99a6bdf88","fromNode":"5a6cc4113faaef47","fromSide":"bottom","toNode":"4da787663b4a2273","toSide":"top"},
+		{"id":"2ead5db400730c70","fromNode":"4da787663b4a2273","fromSide":"bottom","toNode":"2f2d8759b0d2fa9b","toSide":"top"}
+	]
+}

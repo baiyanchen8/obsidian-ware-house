@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "附件",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "雜記",
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}

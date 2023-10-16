@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c75bb7a56b9828ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f6735704b0242c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340a4675558f64f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "計組/chap1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc89609f3f735c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雜記/四種部屬雲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a6af0b5d4fd8614",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d20055afb547f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb37ebc20e4ba4e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d80bcd47dc1ca9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17b04d6badf2eeb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5fdce963601082c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3fd9eda5ff7cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49c5f17ec5cf6f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "計組/chap1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecebcfff55c3ac8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "計組/chap1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9633f42d97ae5fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0e860b2ec3c9879",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "計組/chap1.md"
+              }
+            }
+          },
+          {
+            "id": "961d69a0039e885a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "340a4675558f64f0",
+  "lastOpenFiles": [
+    "雜記/四種部屬雲.md",
+    "計組/chap1.md",
+    "雜記/三種雲端.md",
+    "雜記/附件/Pasted image 20231016183051.png.md",
+    "雜記/附件",
+    "雜記/SaaS.md",
+    "附件/Pasted image 20231016192216.png",
+    "雜記/CRT.md",
+    "未命名 1.canvas",
+    "附件/Pasted image 20231016191841.png",
+    "附件/Pasted image 20231016191639.png",
+    "附件/Pasted image 20231016191617.png",
+    "附件/Pasted image 20231016191459.png",
+    "附件/Pasted image 20231016183051.png",
+    "雜記/POSTPC.md",
+    "附件/螢幕擷取畫面 2023-10-16 161356.png",
+    "未命名.canvas",
+    "附件/Pasted image 20231016154424.png",
+    "附件/Pasted image 20231016145902.png",
+    "附件/Pasted image 20231016150151.png",
+    "雜記",
+    "附件"
+  ]
+}
