@@ -39,6 +39,7 @@ keyborad、mouse
 
 #### output
 **[[CRT]]**
+
 #### memory
 
 ^c65dd5
@@ -70,6 +71,12 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 #### system software
 ![[../附件/Pasted image 20231016145902.png]]
 ~~window~~ and linux kernel and so on 
+###### 四大os管理
+1. CPU
+2. main MEMORY
+3. DEVICE
+4. INFORMATION
+
 #### function Marco
 | function               | marco              |
 |:---------------------- | ------------------ |
@@ -114,7 +121,7 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 	- 系統被設計成由多個獨立的服務組成，這些服務可以相互協作，以實現特定的功能或目標。
 -  低費用(Low Cost) 
 	- 指優化成本，以確保系統的運營和維護不會造成過高的開支。
--  先進的安全措施
+-  先進的安全措施(advanced security)
 	- 指系統具有強化的安全功能，以保護資訊和資源免受潛在的風險和威脅。
 ## Seven great ideas in computer organization 
 - Use abstraction to simplify design 
