@@ -34,11 +34,11 @@
 ### hardware
 #### input
 keyborad、mouse
-##### [[POSTPC]] 後PC時代
+##### [POSTPC](https://github.com/baiyanchen8/obsidian-ware-house/blob/61342dddb258a1f271caa7b2e76425deef7678f6/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/POSTPC.md) 後PC時代
 ![../附件/Pasted image 20231016091846.png](./附件/Pasted image 20231016091846.png)
 
 #### output
-**[[CRT]]**
+**[CRT](https://github.com/baiyanchen8/obsidian-ware-house/blob/61342dddb258a1f271caa7b2e76425deef7678f6/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/CRT.md)**
 
 #### memory
 
