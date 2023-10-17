@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +169,8 @@
   "active": "340a4675558f64f0",
   "lastOpenFiles": [
     "雜記/SaaS.md",
-    "雜記/三種雲端.md",
     "計組/chap1.md",
+    "雜記/三種雲端.md",
     "雜記/四種部屬雲.md",
     "雜記/附件/Pasted image 20231016183051.png.md",
     "雜記/附件",
