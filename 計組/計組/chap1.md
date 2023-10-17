@@ -29,7 +29,7 @@
 2. Portion of software run on a PMD and a portion run in the Cloud
 3. [[三種雲端]]
 4. [[四種部屬雲]]
-#### ![[../附件/Pasted image 20231016001757.png]]
+#### ![../附件/Pasted image 20231016001757.png]]
 ## Looking at hardware and software from a single computer
 ### hardware
 #### input
