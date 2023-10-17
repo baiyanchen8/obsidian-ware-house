@@ -28,7 +28,7 @@
 1. 多與PMD結合，software run on pwd ,data run on cloud database
 2. Portion of software run on a PMD and a portion run in the Cloud
 3. [三種雲端](https://github.com/baiyanchen8/obsidian-ware-house/blob/0050820ee835b58b9cdb58f3b2990c55b1774664/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/SIP.md)
-4. [四種部屬雲]
+4. [四種部屬雲](https://github.com/baiyanchen8/obsidian-ware-house/blob/6405d4b55b64361b0f65f06e8ffcaa5c434ae3a7/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/%E5%9B%9B%E7%A8%AE%E9%83%A8%E5%B1%AC%E9%9B%B2.md)
 !['image'](https://github.com/baiyanchen8/obsidian-ware-house/blob/bfcefa8944a16ee83ee5126e0def3c208a2b2e16/%E8%A8%88%E7%B5%84/%E9%99%84%E4%BB%B6/Pasted%20image%2020231016001757.png)
 ## Looking at hardware and software from a single computer
 ### hardware
