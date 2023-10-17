@@ -35,7 +35,7 @@
 #### input
 keyborad、mouse
 ##### [[POSTPC]] 後PC時代
-![[../附件/Pasted image 20231016091846.png]]
+![../附件/Pasted image 20231016091846.png](../附件/Pasted image 20231016091846.png)
 
 #### output
 **[[CRT]]**
