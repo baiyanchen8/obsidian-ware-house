@@ -70,7 +70,7 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 ![[../附件/Pasted image 20231016150151.png]]
 #### system software
 ![[../附件/Pasted image 20231016145902.png]]
-~~window~~ and linux kernel and so on 
+window and linux kernel and so on 
 ###### 四大os管理
 1. CPU
 2. main MEMORY
@@ -86,8 +86,8 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 | ---- | exe              | immediate                       | 直接執行 |
 | ---- | ---------------- | ------------------------------- | -------- |
 | pros | 執行速度快       | 只要有中間檔(&java庫)就可以執行 |    只要有程式碼就能執行      |
-| cons | 換台電腦就不能用 |                 比exe慢                |    跑到才會出錯，比im更慢，會野外露出程式碼   |
-| 舉例 |     C&C++             |     java                            |  python、ruby        |
+| cons | 換台電腦就不能用 |                 比exe慢 |    跑到才會出錯，比im更慢，會野外露出程式碼   |
+| 舉例 |     C&C++             |     java     |  python、ruby        |
 #### from code to execute
 ![[../附件/Pasted image 20231016192216.png]]
 ### cloud system
@@ -143,3 +143,12 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 - Dependability via redundancy
 	- 透過冗餘實現備份
 ## How to evaluate the performance of a computer performance
+###  intro 
+
+### Performance of hardware
+
+### Performance of software
+
+### The power wall 
+
+### Fallacies and pitfalls
