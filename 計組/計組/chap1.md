@@ -1,9 +1,15 @@
-#計組
+{%hackmd BJrTq20hE %}
+# content menu
+> [祭祖](/CbOGsAUoTQGDKsxxL1C8NQ) \
+> [chap1](/6nT1VMGBQBKQuwc7ngnYVg)\
+> [chap2](/Zcv2mTGYRV-Y1-aLzUeWhw)\
+> [nothing]()
 # 簡介
 對計組的簡單介紹
 # 主題
-## A world full of computers 
+## A world full of computers
 ### six classes of computer
+
 #### Personal computer
 1. 個人電腦(一般家用主機)
 2. 高度訂製化
@@ -27,18 +33,20 @@
 #### cloud computing
 1. 多與PMD結合，software run on pwd ,data run on cloud database
 2. Portion of software run on a PMD and a portion run in the Cloud
-3. [三種雲端](https://github.com/baiyanchen8/obsidian-ware-house/blob/0050820ee835b58b9cdb58f3b2990c55b1774664/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/SIP.md)
-4. [四種部屬雲](https://github.com/baiyanchen8/obsidian-ware-house/blob/6405d4b55b64361b0f65f06e8ffcaa5c434ae3a7/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/%E5%9B%9B%E7%A8%AE%E9%83%A8%E5%B1%AC%E9%9B%B2.md)
-!['image'](https://github.com/baiyanchen8/obsidian-ware-house/blob/bfcefa8944a16ee83ee5126e0def3c208a2b2e16/%E8%A8%88%E7%B5%84/%E9%99%84%E4%BB%B6/Pasted%20image%2020231016001757.png)
+3. [SIP](https://hackmd.io/BrG766-wQt6feIWi-3hfug)
+4. [四種部屬雲](https://hackmd.io/aqnyVtnyTu-m3vCcXOBJLQ)
+![](https://hackmd.io/_uploads/BJUVc6obT.png)
+
 ## Looking at hardware and software from a single computer
 ### hardware
 #### input
 keyborad、mouse
-##### [POSTPC](https://github.com/baiyanchen8/obsidian-ware-house/blob/61342dddb258a1f271caa7b2e76425deef7678f6/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/POSTPC.md) 後PC時代
-![../附件/Pasted image 20231016091846.png](./附件/Pasted image 20231016091846.png)
+##### [POSTPC](https://hackmd.io/o_E6p7YNTTSVn-a8lqwLiQ) 後PC時代
+![](https://hackmd.io/_uploads/By_Ay6jW6.png)
+
 
 #### output
-**[CRT](https://github.com/baiyanchen8/obsidian-ware-house/blob/61342dddb258a1f271caa7b2e76425deef7678f6/%E8%A8%88%E7%B5%84/%E9%9B%9C%E8%A8%98/CRT.md)**
+**[CRT](https://hackmd.io/TepuCGZWRpi9m4aKCLO-uw)**
 
 #### memory
 
@@ -49,28 +57,41 @@ keyborad、mouse
 | magnetic、flash、CDROM、DVD|       memory、cache、register                  |
 由於valid and nonvalid 使memory分為兩種大類型，一種用於快速存取，另一種用於保存資料。
 ##### valid memory
-memory、cache、register  
-![[../附件/Pasted image 20231016093423.png]]
+memory、cache、register \
+![](https://hackmd.io/_uploads/r1PoWaoZp.png)
+
 **由於其價格差異，因此才會分為多層使用(越快越貴)**
 
 #### network
+![](https://hackmd.io/_uploads/BJWnZTo-6.png)
 **WAN** : wide area netwwork → 輸入(通常只有一孔)
 **LAN** : Local area netwwork → 輸入(通常有多孔)
 **Wireless network**: WiFi, Bluetooth
-![[../附件/Pasted image 20231016094221.png]]
+
+
 #### cpu
-![[../附件/Pasted image 20231016094801.png]]
-![[../附件/Pasted image 20231016094850.png]]
+##### [逢紐曼電腦架構](https://hackmd.io/YfbDHi5pRVWlcmcQ1kKQVw)
+![](https://hackmd.io/_uploads/HJt6-piZp.png)
+![](https://hackmd.io/_uploads/S1YaZps-T.png)
+
 隨者功率、指令級並行性和記憶體延遲被限制
 #### wafer
-![[../附件/Pasted image 20231016125625.png]]
-![[../附件/Pasted image 20231016125922.png]]
-$$Yelid =1/(1+defect per area×Dies Area)^N$$
+![](https://hackmd.io/_uploads/H1Oi7pi-p.png)
+$Cost\ Per\ Dies=Cost\ Per\ Wafer/Dies\ Per\ Wafer\times Yelid$
+
+$Dies\ Per\ Wafer≓Wafer\ Area/Dies\ Area$
+
+$Yelid =1/(1+Defect\ Per\ Area×Dies\ Area)^N$
 ### software
-![[../附件/Pasted image 20231016150151.png]]
+![](https://hackmd.io/_uploads/rJzp7pjbp.png)
+
 #### system software
-![[../附件/Pasted image 20231016145902.png]]
-~~window~~ and linux kernel and so on 
+<details>
+    <summary>window and linux kernel and so on </summary>
+        how dare you !!　哈　糕雲千
+</details>
+
+
 ###### 四大os管理
 1. CPU
 2. main MEMORY
@@ -79,7 +100,7 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 
 #### function Marco
 | function               | marco              |
-|:---------------------- | ------------------ |
+|---------------------- | ------------------ |
 | it need return address | it need more space |
 | it need more time      | it need more space |
 #### compiler
@@ -89,10 +110,11 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 | cons | 換台電腦就不能用 |                 比exe慢                |    跑到才會出錯，比im更慢，會野外露出程式碼   |
 | 舉例 |     C&C++             |     java                            |  python、ruby        |
 #### from code to execute
-![[../附件/Pasted image 20231016192216.png]]
+![](https://hackmd.io/_uploads/BkR8ETibp.png)
+
 ### cloud system
-#### [[三種雲端]]
-#### [[四種部屬雲]]
+#### [SIP](/BrG766-wQt6feIWi-3hfug)
+#### [四種部屬雲](/aqnyVtnyTu-m3vCcXOBJLQ)
 #### 功能
 -  按需求自助服務(On-Demand Self-Service) 
 	- 消費者可據需求自己來
@@ -139,7 +161,117 @@ $$Yelid =1/(1+defect per area×Dies Area)^N$$
 - Performance via prediction
 	- 根據條件測試執行的下一條指令。
 - Hierarchy of memories
-	- 多分層的[[#memory]]
+	- 多分層的
 - Dependability via redundancy
 	- 透過冗餘實現備份
 ## How to evaluate the performance of a computer performance
+### Concept of multiple criteria
+因為電腦是一種由多種零件組合起來的集合，所以不能只用單一的標準去判斷電腦的好壞
+####  Five criteria of Performance of hardware
+1. Response time
+    - 回應時間  
+    - 個人電腦尤為在意
+2. Throughput
+    - Server 會很在意
+3. Performance
+    - Performance = 1/Execution Time 
+4. relted Performance
+    -  A is 3 times faster than B
+        - A'excution time × 3 = B'excution time
+        - A'performance / 3 = B'performance
+5. CPU rate
+    - 單位(次/秒)
+    - 3.xHz   
+![](https://hackmd.io/_uploads/BJEYHF3bT.png)
+
+
+#### Five criteria of Performance of software
+1. Elapsed time
+    - 使用者時間
+2.  CPU time
+    - code 在 cpu 上執行的時間
+    - <font color = '00CED1'>$Cpu\ Time=Cpu\ Clock\ Cycle\times Cpu\ Cycle\ Times$</font>
+        - Cputime ( Sec ) 
+        - CpuClockCycle ( Times )  
+            - 一次執行所需的時脈數
+        - CpuCycleTimes ( Sec/Times )
+            - 一次Cycle的時間 ( 週期 )
+    - <font color = '00CED1'>$Cpu\ Time=\frac{Cpu\ Clock\ Cycle} {Cycle\ Rate}$</font>
+        - CycleRate ( Times/Sec )
+            - 一秒幾個Cycle( 頻率 or 時脈 )
+3. CPI(cycle per instruction)
+    - 每個instruction平均有多少週期
+    - $CPI=Cp\ Clock\ Cycle/Instruction\ Num$
+        - InstructionNum(次數)
+            - Instruction 的數量
+        - CPI(次數/次數)
+    - if all CPI is the smae
+        - $Cpu\ Clock\ Cycle=Instruction\ Num\times CPI$
+        - $Cpu\ Time= Instruction\ Num\times CPI\times Cpu\ Cycle\ Times$
+        - ex:你所撰寫的程式在JAVA n上，執行時間需要約15秒。
+                又今天JAVA官方發表最新的JAVA n+1，且已知你的程
+                式由JAVA n+1 編譯出來的指令數只要JAVA n的0.6倍，
+                但其CPI會提高到1.1倍，請問你的程式在新編譯器中
+                的執行時間初估為幾秒呢?  
+                Ans = 15⨯1.1⨯0.6=9.9(sec)
+    - if not
+        - $Cpu\ Clock\ Cycle= \varSigma (Instruction\ Num_n\times CPI_n)$
+        - $average(CPI)= \varSigma (CPI_n \times\frac {Instruction\ Num_n} {sum\ of\ Instruction \ Num})=\frac {Cpu\ Clock\ Cycle}{sum\ of\ Instruction \ Num}$
+        - 用權重平均的方式理解
+        - 其實不用背啦
+        - ex : if here has two program
+        
+        | instruction | a   | b   | c   |
+        | ----------- |:--- |:--- | --- |
+        | cpi         | 1   | 2   | 3   |
+        
+        | program | a   | b   | c   |
+        | ------- |:--- |:--- | --- |
+        | A       | 1   | 1   | 1   |
+        | B       | 1   | 2   | 5   |
+        
+        | ans      | A           | B              |
+        | -------- | ----------- | -------------- |
+        | cycle    | 1+2+3=6     | 1⨯1+2⨯2+3⨯5=20 |
+        | Avg(CPI) | 6/(1+1+1)=2 | 20/(1+2+5)=2.5 |
+        
+    - **Influencing Factors**
+        - Instruction Count for a program(指令數)
+            - 程式
+            - ISA(指令庫)
+                - 不同ISA其中與硬體溝通方式會不同(cycle會不同)
+            - 編譯器
+        - Average cycles per instruction(指令平均週期or 指令平均時脈數)
+            - 硬體
+            - 不同指令不同CPI
+                - 因此Avg(CPI)會嚴重受使用的所有指令影響
+4. 硬碟的I/O次數
+    - 根據I/O的使用次數與使用方式會影響程式表現,[硬碟詳細內容介紹](https://hackmd.io/QNtqQvvuR4Kunegmykhwmg)
+        |儲存型態|link list |arr|
+        |-|:-|:-|
+        |優點| 可隨時變換長度及型態|根據硬碟型態 可以有較快的讀取速度 |
+        |缺點| 根據硬碟型態 不會有較快的讀取速度|不可隨時變換長度及型態 |
+
+5. 時間複雜度
+    - algorthim
+6. if 你是個資工系學生 ,how to improve cpu time\
+    
+    | 東東\Cpu Time Factor | 指令数 | CPI | 時脈速率 |
+    |:--------------------:|:------:|:--- |:--------:|
+    |      alogorithm      |   ✔️   | ✔️  |    ✖️    |
+    |       資料結構       |   ✔️   | ✔️  |    ✖️    |
+    |    program design    |   ✔️   | ✔️  |    ✖️    |
+    |       complier       |   ✔️   | ✔️  |    ✖️    |
+    |         ISA          |   ✔️   | ✔️  |    ✔️    |
+    |         計組         |   ✖️   | ✔️  |    ✔️    |
+    |     VLSI(純硬體)     |   ✖️   | ✖️  |    ✔️    |
+    
+#### exapand-[turbo mode](/8pUbv756QumfQq1nCHREsA) 
+渦輪模式 : 在 CPU 運算量高時讓 CPO 時脈短暫开高10 % ,
+直到 CPO 過熱為止
+### The power wall (能耗牆)
+
+
+### Fallacies and pitfalls(謬誤與陷阱)
+
+
