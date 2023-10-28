@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"72d3ba2e6982aa45","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"af5586c9a5ca4498","x":40,"y":-80,"width":140,"height":60,"color":"1","type":"text","text":"控制器"}
+	],
+	"edges":[]
+}

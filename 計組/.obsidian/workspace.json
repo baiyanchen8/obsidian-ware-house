@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "計組/chap1.md",
+                "file": "雜記/SaaS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "計組/chap1.md",
+                "file": "雜記/SaaS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "計組/chap1.md",
+                "file": "雜記/SaaS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "計組/chap1.md"
+                "file": "雜記/SaaS.md"
               }
             }
           },
@@ -150,11 +150,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,26 +169,27 @@
   },
   "active": "340a4675558f64f0",
   "lastOpenFiles": [
-    "雜記/SaaS.md",
-    "計組/chap1.md",
     "雜記/三種雲端.md",
+    "計組/chap1.md",
+    "雜記/SaaS.md",
+    "附件/螢幕擷取畫面 2023-10-16 161356.png",
+    "附件/未命名 1.png",
+    "附件/未命名.png",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
     "雜記/四種部屬雲.md",
     "雜記/附件/Pasted image 20231016183051.png.md",
     "雜記/附件",
     "附件/Pasted image 20231016192216.png",
     "雜記/CRT.md",
-    "未命名 1.canvas",
     "附件/Pasted image 20231016191841.png",
     "附件/Pasted image 20231016191639.png",
     "附件/Pasted image 20231016191617.png",
     "附件/Pasted image 20231016191459.png",
     "附件/Pasted image 20231016183051.png",
     "雜記/POSTPC.md",
-    "附件/螢幕擷取畫面 2023-10-16 161356.png",
     "未命名.canvas",
     "附件/Pasted image 20231016154424.png",
-    "附件/Pasted image 20231016145902.png",
-    "附件/Pasted image 20231016150151.png",
     "雜記",
     "附件"
   ]
